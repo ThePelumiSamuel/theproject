@@ -1,0 +1,12 @@
+if (self.CavalryLogger) { CavalryLogger.start_js_script(document.currentScript); }/*FB_PKG_DELIM*/
+
+__d("FBReelsFeedbackBarPlaceholder.react",["CometColumn.react","CometColumnItem.react","CometGlimmer.react","react","stylex"],(function(a,b,c,d,e,f,g){"use strict";var h=d("react"),i={feedbackBarContainer:{marginEnd:"gwsksnwe",paddingBottom:"hwnh5xvq",paddingStart:"fl8dtwsd",width:"pnicyljo",zIndex:"tkr6xdv7"},feedbackButton:{borderTopStartRadius:"s45kfl79",borderTopEndRadius:"emlxlaya",borderBottomEndRadius:"bkmhp75w",borderBottomStartRadius:"spb7xbtv",height:"qypqp5cg",width:"q676j6op"},noPadding:{paddingStart:"dati1w0a"}};function a(a){a=a.noPadding;return h.jsx("div",{className:c("stylex")([i.feedbackBarContainer,a===!0?i.noPadding:null]),children:h.jsxs(c("CometColumn.react"),{spacing:12,children:[h.jsx(c("CometColumnItem.react"),{paddingTop:0,paddingVertical:20,children:h.jsx(c("CometGlimmer.react"),{className:c("stylex")(i.feedbackButton),index:0})}),h.jsx(c("CometColumnItem.react"),{paddingTop:0,paddingVertical:20,children:h.jsx(c("CometGlimmer.react"),{className:c("stylex")(i.feedbackButton),index:0})}),h.jsx(c("CometColumnItem.react"),{paddingTop:0,paddingVertical:20,children:h.jsx(c("CometGlimmer.react"),{className:c("stylex")(i.feedbackButton),index:0})})]})})}a.displayName=a.name+" [from "+f.id+"]";g["default"]=a}),98);
+__d("FundraiserHubCreatedByFriendsSectionQuery_facebookRelayOperation",[],(function(a,b,c,d,e,f){e.exports="5348512438492945"}),null);
+__d("FundraiserHubLeftRailNavMenuQuery_facebookRelayOperation",[],(function(a,b,c,d,e,f){e.exports="5513542438708655"}),null);
+__d("FundraiserHubLeftRailSectionsQuery_facebookRelayOperation",[],(function(a,b,c,d,e,f){e.exports="7317222205016237"}),null);
+__d("FundraiserHubLocalNonprofitSectionLocationQuery_facebookRelayOperation",[],(function(a,b,c,d,e,f){e.exports="4706131239485334"}),null);
+__d("FundraiserHubLocalNonprofitSectionQuery_facebookRelayOperation",[],(function(a,b,c,d,e,f){e.exports="7524362854301037"}),null);
+__d("FundraiserHubPopularSectionQuery_facebookRelayOperation",[],(function(a,b,c,d,e,f){e.exports="4782209978568502"}),null);
+__d("FundraiserHubRaiseMoneySectionQuery_facebookRelayOperation",[],(function(a,b,c,d,e,f){e.exports="4911455635598526"}),null);
+__d("FundraiserHubSuggestedNonprofitSectionQuery_facebookRelayOperation",[],(function(a,b,c,d,e,f){e.exports="5155463194522017"}),null);
+__d("FundraiserHubSuggestedPersonalSectionQuery_facebookRelayOperation",[],(function(a,b,c,d,e,f){e.exports="7446914842048430"}),null);

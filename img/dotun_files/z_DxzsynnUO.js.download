@@ -1,5 +1,0 @@
-if (self.CavalryLogger) { CavalryLogger.start_js_script(document.currentScript); }/*FB_PKG_DELIM*/
-
-__d("CometGlobalPanelListItemSelectedIndicator.react",["react","stylex"],(function(a,b,c,d,e,f,g){"use strict";var h=d("react");function a(a){a=a.showIndicator;return h.jsx("div",{className:c("stylex").dedupe({"background-color-1":"is6700om","border-bottom-end-radius-1":"uo3d90p7","border-top-end-radius-1":"pw54ja7n","height-1":"tv7at329","opacity-1":"b5wmifdl","position-1":"pmk7jnqg","start-1":"j9ispegn","top-1":"rk01pc8j","transform-0.1":"o4vwbht8","transform-origin-1":"gxs0h7es","transition-duration-1":"s00z5mgp","transition-property-1":"pnx7fd3z","transition-timing-function-1":"ply81ew9","width-1":"loos5mxf"},a?{"opacity-1":"pedkr2u6","transform-0.1":"irfgd9xb","transform-origin-1":null}:null)})}a.displayName=a.name+" [from "+f.id+"]";g["default"]=a}),98);
-__d("ProfileCometReviewsFeedQuery_facebookRelayOperation",[],(function(a,b,c,d,e,f){e.exports="5473027156042189"}),null);
-__d("ProfileCometReviewsTabRootQuery_facebookRelayOperation",[],(function(a,b,c,d,e,f){e.exports="3862521673825920"}),null);

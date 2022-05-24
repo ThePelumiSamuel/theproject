@@ -1,4 +1,0 @@
-if (self.CavalryLogger) { CavalryLogger.start_js_script(document.currentScript); }/*FB_PKG_DELIM*/
-
-__d("CometVideoHomeNewPermalinkHeroUnitQuery_facebookRelayOperation",[],(function(a,b,c,d,e,f){e.exports="5263078363715120"}),null);
-__d("CometVideoHomeRHCRootQuery_facebookRelayOperation",[],(function(a,b,c,d,e,f){e.exports="5906043039412243"}),null);

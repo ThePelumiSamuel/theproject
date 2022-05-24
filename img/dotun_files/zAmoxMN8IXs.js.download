@@ -1,5 +1,0 @@
-if (self.CavalryLogger) { CavalryLogger.start_js_script(document.currentScript); }/*FB_PKG_DELIM*/
-
-__d("InterventionDialogQuery_facebookRelayOperation",[],(function(a,b,c,d,e,f){e.exports="5064046183675518"}),null);
-__d("InterventionDialogQuery$Parameters",["InterventionDialogQuery_facebookRelayOperation"],(function(a,b,c,d,e,f){"use strict";a={kind:"PreloadableConcreteRequest",params:{id:b("InterventionDialogQuery_facebookRelayOperation"),metadata:{},name:"InterventionDialogQuery",operationKind:"query",text:null}};e.exports=a}),null);
-__d("InterventionDialog.entrypoint",["InterventionDialogQuery$Parameters","JSResourceForInteraction","WebPixelRatio"],(function(a,b,c,d,e,f,g){"use strict";a={getPreloadProps:function(a){return{extraProps:a,queries:{InterventionDialogQueryReference:{parameters:c("InterventionDialogQuery$Parameters"),variables:{actionType:a.actionType,entityID:a.entityID,scale:d("WebPixelRatio").get()}}}}},root:c("JSResourceForInteraction")("InterventionDialog.react").__setRef("InterventionDialog.entrypoint")};g["default"]=a}),98);

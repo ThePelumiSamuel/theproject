@@ -11,10 +11,14 @@ body::before{
 }
 
 .nav-item :hover{
-    background-color: white;
+    background-color: rgb(42, 42, 93);
     transition: 1s;
     border-radius: 10px;
-    color: #000;
+    color: brown;
+}
+.nav-item  a:hover{
+    
+    color: brown;
 }
 
 @media (min-width: 768px) {
